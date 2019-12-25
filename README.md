@@ -1,7 +1,5 @@
 # vuecalculatorproject
 
-# vuecalculatorproject
-
 # calcapp
 
 ## Project setup
