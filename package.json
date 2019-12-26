@@ -7,9 +7,10 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-  "dependencies": { 
+  "dependencies": {
     "core-js": "^3.4.3",
     "element-ui": "^2.13.0",
+    "elementscss": "^0.1.8",
     "medium-editor": "^5.23.3",
     "node-sass": "^4.13.0",
     "sass-loader": "^8.0.0",
