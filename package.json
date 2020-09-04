@@ -12,7 +12,7 @@
     "element-ui": "^2.13.0",
     "elementscss": "^0.1.8",
     "medium-editor": "^5.23.3",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^8.0.0",
     "vue": "^2.6.10"
   },
